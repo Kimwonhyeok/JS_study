@@ -1,6 +1,6 @@
 <h1>기본알고리즘</h1>
 짧고 간단한 프로그램을 통해 알고리즘이 무엇인가에 대해 알아가는 챕터.
-<h2>Key Point</h2>
+<h2>🔑Key Point</h2>
 <ul>
   <li>if문(selection)구조와 순차적 구조(concatenation)에 대해 알아보기</li>
   <li>반복문에 대해 알아보기</li>
